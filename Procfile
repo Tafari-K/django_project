@@ -1,1 +1,1 @@
-web: gunicorn hello-world-djproject.wsgi
+web: gunicorn my_project.wsgi
